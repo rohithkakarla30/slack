@@ -10,7 +10,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/slack-go/slack/slackutilsx"
+	"github.com/rohithkakarla30/slack/slackutilsx"
 )
 
 const (

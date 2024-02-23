@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/slack-go/slack"
+	"github.com/rohithkakarla30/slack"
 )
 
 func TestRTMInfo(t *testing.T) {

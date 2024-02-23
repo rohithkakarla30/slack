@@ -9,8 +9,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/slack-go/slack"
-	"github.com/slack-go/slack/slackevents"
+	"github.com/rohithkakarla30/slack"
+	"github.com/rohithkakarla30/slack/slackevents"
 )
 
 const (
